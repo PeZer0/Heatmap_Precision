@@ -1,5 +1,6 @@
 # import streamlit as st
-from streamlit_image_coordinates import streamlit_image_coordinates
+# from streamlit_image_coordinates 
+import streamlit_image_coordinates
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
